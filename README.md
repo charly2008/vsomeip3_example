@@ -4,8 +4,8 @@
 
 | C/S    | Host           | OS           | CPU-Arch | Eth-Port-Name | IP            |
 | ------ | -------------- | ------------ | -------- | ------------- | ------------- |
-| Server | Raspberry Pi4+ | ubuntu 20.04 | arm64    | eth0          | 192.168.2.100 |
-| Client | Dell-Pc        | ubuntu 22.04 | amd64    | enp0s25       | 192.168.2.40  |
+| Server | virtualbox     | ubuntu 20.04 | arm64    | enp0s10       | 192.168.56.102|
+| Client | virtualbox     | ubuntu 20.04 | amd64    | enp0s10       | 192.168.56.102|
 
 
 
